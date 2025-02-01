@@ -1,6 +1,7 @@
 ![alt text](https://github.com/doro-777/.github/blob/main/banner.png?raw=true)
 # Doro777 - Nhà cái cá cược hàng đầu Discord.
-Doro777 là nhà cái cá cược đáng tin cậy hàng đầu Discord, được thành lập bởi Eden FC, nhà tài trợ giải đua ngựa Uma Musume, kiêm đơn vị tổ chức Doro League.
+- Doro777 là nhà cái cá cược đáng tin cậy hàng đầu Discord, được thành lập bởi Eden FC, nhà tài trợ giải đua ngựa Uma Musume, kiêm đơn vị tổ chức Doro League.
+Chúng tôi cam kết KHÔNG liên quan đến bất kỳ giao dịch tiền mặt nào.
 
 ## Thế giới cá cược, trò chơi và giải thưởng cực lớn trong tầm tay bạn!
 
