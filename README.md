@@ -48,6 +48,6 @@
 
 ### 🌟 Trust • Loyalty • Rewards 🌟
 
-[GitHub Repository](https://github.com/doro-777) • [Report Issues](../../issues) • [Contact](mailto:doro777.eden.staffs@gmail.com)
+[GitHub Repository](https://github.com/doro-777) • [Report Issues](https://github.com/doro-777/.github/issues) • [Contact](mailto:doro777.eden.staffs@gmail.com)
 
 </div>
