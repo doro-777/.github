@@ -4,9 +4,9 @@
 
 # 🎰 Doro777 - The Leading Discord Betting Platform
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/doro777)
-[![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)]()
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0--beta-blue?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
 </div>
 
@@ -37,9 +37,10 @@
 
 | Feature | Status | Expected Release |
 |---------|--------|-----------------|
-| Dashboard | 🔨 In Development | Q1 2024 |
-| Mobile App | 📝 Planning | Q2 2024 |
-| Global Version | 🎯 Planned | Q3 2024 |
+| Dashboard | 🔨 In Development | Q1 2026 |
+| Mobile App | 📝 Planning | Q2 2026 |
+| Global Version | 🎯 Planned | Q3 2026 |
+| Discord Server | 🎯 Planned | Q1 2026 |
 
 ---
 
@@ -47,6 +48,6 @@
 
 ### 🌟 Trust • Loyalty • Rewards 🌟
 
-[Support](mailto:doro777.eden.staffs@gmail.com)
+[GitHub Repository](https://github.com/doro-777) • [Report Issues](../../issues) • [Contact](mailto:doro777.eden.staffs@gmail.com)
 
 </div>
