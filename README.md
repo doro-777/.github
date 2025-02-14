@@ -1,33 +1,53 @@
-![alt text](https://github.com/doro-777/.github/blob/main/banner.png?raw=true)
-# Doro777 - The Leading Discord Betting Platform
-- Doro777 is the most trusted betting platform on Discord, established by Eden FC, sponsor of the Uma Musume horse racing tournament and organizer of the Doro League.
-- We guarantee **NO** involvement with any real money transactions.
+<div align="center">
 
-## A world of betting, games, and massive prizes at your fingertips!
+![Doro777 Banner](https://github.com/doro-777/.github/blob/main/banner.png?raw=true)
 
-BOT Doro777 offers you:
+# 🎰 Doro777 - The Leading Discord Betting Platform
 
-* Welcome bonus up to 50,000 credits for newcomers.
-* Highest odds among all Discord betting platforms.
-* Bet anywhere, anytime without any real money involvement.
+[![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0--beta-blue?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
-## But wait! Doro777 also features:
+</div>
 
-* **Numerous Casino Games**: From familiar card games to Scratch Cards.
-* **Highest Betting Odds**: Compared to all other Discord betting platforms.
-* **Live Games**: Real-time games to play with everyone from different servers.
-* **Play Anywhere, Anytime**: From Discord Servers to Direct Messages.
-* **24/7 Support**: Dedicated customer service via email: doro777.eden.staffs@gmail.com
+## 🎯 About Us
+- 🏆 Doro777 is the most trusted betting platform on Discord, established by Eden FC, sponsor of the Uma Musume horse racing tournament and organizer of the Doro League.
+- ⚠️ We guarantee **NO** involvement with any real money transactions.
 
-## Exclusive to Doro777:
+## 🌟 Experience the Ultimate Gaming Platform
 
-* **Eden Lottery every 6:15 PM (GMT+7)**: Join now for a chance to win big!
-* **Attractive Offers**: Giftcodes, daily Credit bonuses.
-* **Proud to be the first Betting-focused Bot on Discord.**
+### 🎁 BOT Doro777 Offers:
+* 💰 Welcome bonus up to 50,000 credits for newcomers
+* 📈 Highest odds among all Discord betting platforms
+* 🎮 Bet anywhere, anytime without any real money involvement
 
-## Upcoming Updates:
-- **Doro777 Dashboard**
-- **Doro777 Mobile**
-- **Doro777 Global Version**
+### 🎲 Premium Features
+* 🃏 **Casino Games**: From classic card games to exciting Scratch Cards
+* 💫 **Best Odds**: Superior to all other Discord betting platforms
+* 🔴 **Live Gaming**: Real-time interaction across different servers
+* 📱 **Universal Access**: Available on Discord Servers and DMs
+* 💬 **24/7 Support**: Professional assistance via [email](mailto:doro777.eden.staffs@gmail.com)
 
-## Trust - Loyalty - Rewards
+### 🏅 Doro777 Exclusives
+* 🎫 **Eden Lottery**: Daily draws at 6:15 PM (GMT+7)
+* 🎁 **Daily Rewards**: Giftcodes and Credit bonuses
+* 🥇 **Pioneer Status**: First dedicated Betting Bot on Discord
+
+## 🚀 Coming Soon
+
+| Feature | Status | Expected Release |
+|---------|--------|-----------------|
+| Dashboard | 🔨 In Development | Q1 2026 |
+| Mobile App | 📝 Planning | Q2 2026 |
+| Global Version | 🎯 Planned | Q3 2026 |
+| Discord Server | 🎯 Planned | Q1 2026 |
+
+---
+
+<div align="center">
+
+### 🌟 Trust • Loyalty • Rewards 🌟
+
+[GitHub Repository](https://github.com/doro-777) • [Report Issues](../../issues) • [Contact](mailto:doro777.eden.staffs@gmail.com)
+
+</div>
